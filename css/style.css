@@ -1,5 +1,5 @@
 body {
-    background-color: #67E667;
+    background-color: #3673FF;
     text-align: center;
     font-family: 'Lato', 'Hiragino Kaku Gothic ProN', 'ヒラギノ角ゴ ProN W3', Meiryo, メイリオ, sans-serif;
 }
@@ -7,7 +7,7 @@ body {
 h1, p {
     margin: 0;
     padding: 20px 0;
-    background-color: #67E667;
+    background-color: #3673FF;
     color: #FFF;
     line-height: 1.8em;
     text-shadow: 0px 4px 3px rgba(0,0,0,0.4), 0px 8px 13px rgba(0,0,0,0.1), 0px 18px 23px rgba(0,0,0,0.1);
@@ -15,10 +15,10 @@ h1, p {
 
 a {
     display: block;
-    background-color: #53CF53;
-    color: #FF4040;
+    background-color: #123EA6;
+    color: #FFD81E;
     line-height: 1.8em;
-    text-shadow: 0px 1px 0px rgba(255,255,255,0.4), 0px 2px 3px rgba(255,255,255,0.1), 0px 4px 5px rgba(255,255,255,0.1);
+    text-shadow: 0px 1px 0px rgba(0,0,0,0.4), 0px 2px 3px rgba(0,0,0,0.1), 0px 4px 5px rgba(0,0,0,0.1);
 }
 
 #box {
@@ -35,13 +35,12 @@ a {
     font-size: 60px;
     text-align: center;
     white-space: nowrap;
-    color: #FF7400;
-    text-shadow: 0px 0px 6px rgba(255,255,255,0.7);
+    color: #FFD81E;
 }
 
 .share {
     font-size: 14px;
-    color: #546238;
+    color: #3512A6;
     text-shadow: 0px 2px 1px rgba(255,255,255,0.4), 0px 4px 6px rgba(255,255,255,0.1), 0px 9px 11px rgba(255,255,255,0.1);
 }
 
@@ -53,12 +52,12 @@ a {
 
 #cf {
     padding: 5px 10px;
-    background-color: #53CF53;
+    background-color: #123EA6;
     border-width: 1px;
     border-radius: 16px;
     font-size: 16px;
 }
 
 #cf p {
-    background-color: #53CF53;
+    background-color: #123EA6;
 }
